@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Witcher-Backup-Of-Saves", "Witcher-Backup-Of-Saves\Witcher-Backup-Of-Saves.csproj", "{7C3151B7-72BE-4E57-BC83-150938311BEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C3151B7-72BE-4E57-BC83-150938311BEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C3151B7-72BE-4E57-BC83-150938311BEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C3151B7-72BE-4E57-BC83-150938311BEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C3151B7-72BE-4E57-BC83-150938311BEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C477216-4E52-4FE5-83F7-63CCCC37265D}
+	EndGlobalSection
+EndGlobal
